@@ -1,0 +1,15 @@
+*.retry
+*.swp
+*~
+.php_cs.cache
+.~lock*
+/.idea
+/MEETING.md
+/MEETINGS.md
+/NOTES.md
+/PASSWORDS.md
+/PERSONAL.md
+/RECIPES.md
+/TEAM.md
+/TODO.md
+/salida.*
